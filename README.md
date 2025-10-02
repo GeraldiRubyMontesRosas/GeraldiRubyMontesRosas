@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Perfil Ruby</title>
+  <title></title>
   <style>
   </style>
 </head>
@@ -11,7 +11,10 @@
 Ingeniera en Tecnologías de la Información
 </h1>
 
- <h2>✨ Ruby Montes ✨</h2>
+<h2 align="center">✨ Ruby Montes ✨</h2>
+
+
+<br>
 
 ### Profesión: 💻 Ingeniera en Tecnologías de la Información  
 "Apasionada por el desarrollo de software, la gestión de proyectos y la resolución de problemas con tecnología."  
