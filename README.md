@@ -2,9 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title></title>
-  <style>
-  </style>
 </head>
 <body>
 <h1 align="center" style="background: linear-gradient(to right, #A7C7E7, #003366, #F8C8DC, #9370DB); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -77,9 +74,6 @@ Ingeniera en Tecnologías de la Información
 ✉️geraldimontes25@gmail.com  
 <br>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&style=flat-square)  
-
-<br>
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 </body>
