@@ -70,11 +70,11 @@ Ingeniera en Tecnologías de la Información
 <br>
 
 ### ⚡ Actividad reciente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Update: Thursday, August 29th, 2024, 1:03:43 PM
+Last Updated: {{DATE}}
 <!--RECENT_ACTIVITY:last_update-->
 
 
