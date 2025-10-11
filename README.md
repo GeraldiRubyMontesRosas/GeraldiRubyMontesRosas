@@ -81,7 +81,7 @@ Ingeniera en Tecnologías de la Información
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, October 11th, 2025, 2:16:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
-Last Updated: {{DATE}}
+
 <!--RECENT_ACTIVITY:last_update-->
 
 
