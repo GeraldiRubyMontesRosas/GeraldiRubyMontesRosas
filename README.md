@@ -71,15 +71,15 @@ Ingeniera en Tecnologías de la Información
 
 ### ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo2/releases/tag/v0.1.0) in [GeraldiRubyMontesRosas/miCuartoRepo2](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo2)<br>
+1. ✌️ Released [v0.1.5](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo2/releases/tag/v0.1.5) in [GeraldiRubyMontesRosas/miCuartoRepo2](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo2)<br>
 2. ⬆️ Pushed undefined commit(s) to [GeraldiRubyMontesRosas/miCuartoRepo2](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo2)<br>
-3. ⬆️ Pushed undefined commit(s) to [GeraldiRubyMontesRosas/miCuartoRepo](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo)<br>
-4. 💪 Opened PR [#3](undefined) in [GeraldiRubyMontesRosas/miCuartoRepo](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo)<br>
-5. ⬆️ Pushed undefined commit(s) to [GeraldiRubyMontesRosas/miCuartoRepo](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo)<br>
+3. ✌️ Released [v0.1.4](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo2/releases/tag/v0.1.4) in [GeraldiRubyMontesRosas/miCuartoRepo2](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo2)<br>
+4. ⬆️ Pushed undefined commit(s) to [GeraldiRubyMontesRosas/miCuartoRepo2](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo2)<br>
+5. ⬆️ Pushed undefined commit(s) to [GeraldiRubyMontesRosas/miCuartoRepo2](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 15th, 2025, 1:20:25 AM
+Last Updated: Wednesday, October 15th, 2025, 12:38:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:last_update-->
