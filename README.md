@@ -72,12 +72,10 @@ Ingeniera en Tecnologías de la Información
 ### ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [GeraldiRubyMontesRosas/HTML](https://github.com/GeraldiRubyMontesRosas/HTML)<br>
-2. ⬆️ Pushed undefined commit(s) to [GeraldiRubyMontesRosas/miCuartoRepo](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [GeraldiRubyMontesRosas/miCuartoRepo](https://github.com/GeraldiRubyMontesRosas/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 17th, 2025, 1:25:09 AM
+Last Updated: Monday, November 17th, 2025, 12:39:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:last_update-->
